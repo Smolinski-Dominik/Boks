@@ -1,0 +1,20 @@
+.article {
+    max-width: 500px;
+
+}
+.article__historia {
+    color: rgb(238, 210, 210);
+}
+.article__paragraph {
+ box-shadow:  darkblue;
+ color: white;
+}
+.article__paragraph--highlighted {
+    color: rgb(247, 243, 243);
+}
+.article--dark {
+    background: #222;
+}
+.article--dark .article__paragraph {
+    color: white;
+}

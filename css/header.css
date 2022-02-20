@@ -1,0 +1,50 @@
+.headerAlignment {
+    text-align: center;
+}
+
+.alignment {
+    vertical-align: auto;
+}
+
+.nav {
+    color: rgb(51 31 230);
+    text-shadow: 1px 0px 5px #80964e;
+    box-shadow: 1px 1px 15px 1px #d51d0000;
+    padding: 5px 0px;
+    background-color: #c7f90800;
+}
+
+.nav:hover {
+    background-color: #de94ce00;
+    box-shadow: 3px 0px 15px 1px #00800000;
+    text-shadow: 1px 0px 5px crimson;
+}
+
+.header__list {
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid darkred;
+    padding-bottom: 15px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
+.header__list--margin {
+    list-style: none;
+    float: middle;
+    /* margin: 10px; */
+}
+
+.header__list--margin:hover {
+    color: rgb(179, 14, 14);
+}
+
+.header__link {
+    color: darkred;
+    text-decoration: none;
+}
+
+.header__link:hover {
+    border-bottom: 2px solid;
+    outline: none;
+}
