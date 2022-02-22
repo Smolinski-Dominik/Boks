@@ -12,9 +12,11 @@ html {
     margin: 0 auto;
     font-family: "Arial", sans-serif;
 }
-.strong{
+
+.strong {
     font-weight: bold;
 }
+
 .article__akapit {
     color: black;
     font-size: 17px;
@@ -81,5 +83,3 @@ html {
 .list {
     margin: 2px;
 }
-
-.przycisk {}
