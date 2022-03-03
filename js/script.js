@@ -1,21 +1,50 @@
-console.log("Witaj zabłąkany programisto na stronie poświęconej pasji i motywacji!")
 
-let button__twoBoxers = document.querySelector(".button__twoBoxers"); // zdjęcie zostaje usunięte
-let twoBoxers = document.querySelector(".twoBoxers");
-let button__championship = document.querySelector(".button__championship");
-let championship = document.querySelector(".championship");
-let button__cup = document.querySelector(".button__cup");
-let cup = document.querySelector(".cup");
+const welcome = () => {
+    console.log("Witaj zabłąkany programisto na stronie poświęconej pasji i motywacji!")
+}
+welcome();
+{
+    const hidePicture = () => {
 
-button__twoBoxers.addEventListener("click", () => {
-    twoBoxers.remove();
-});
+        const button__twoBoxers = document.querySelector(".js-button__twoBoxers");
+        const twoBoxers = document.querySelector(".js-twoBoxers");
 
-button__championship.addEventListener("click", () => {
-    championship.remove();
-});
+        button__twoBoxers.addEventListener("click", () => {
+            twoBoxers.remove();
+        });
 
-button__cup.addEventListener("click", () => {
-    cup.remove();
-});
+    }
 
+    const init = () => {
+        hidePicture();
+    }
+    init();
+}
+{
+    const hidePicture = () => {
+        const button__championship = document.querySelector(".js-button__championship");
+        const championship = document.querySelector(".js-championship");
+
+        button__championship.addEventListener("click", () => {
+            championship.remove();
+        });
+    }
+    const init = () => {
+        hidePicture();
+    }
+    init();
+}
+{
+    const hidePicture = () => {
+        const button__cup = document.querySelector(".js-button__cup"); // usuwa zdjęcie
+        const cup = document.querySelector(".js-cup");
+
+        button__cup.addEventListener("click", () => {
+            cup.remove();
+        });
+    }
+    const init = () => {
+        hidePicture();
+    }
+    init();
+}
