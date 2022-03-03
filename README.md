@@ -1,4 +1,4 @@
-# Smoliński Dominik - moja strona
+# Boks - Smoliński Dominik
 
 ## Demo
 
