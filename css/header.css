@@ -21,12 +21,14 @@
 }
 
 .header__list {
+    display: flex;
     font-size: 20px;
     font-weight: bold;
     border-bottom: 2px solid darkred;
     padding-bottom: 15px;
     padding-left: 0px;
     margin-bottom: 0px;
+    justify-content: space-between;
 }
 
 .header__list--margin {
