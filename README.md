@@ -8,5 +8,10 @@ https://smolinski-dominik.github.io/my-profile/
 
 ## Opis
 
-Strona poświęcona najlepszemu sportowi walki. Trenując ciało i umysł można zostać mistrzem.\n
+Strona poświęcona najlepszemu sportowi walki. Trenując ciało i umysł można zostać mistrzem.
 Boks jest znany ludzkości od starożytnej grecji, gdzie znajdował się w programie starożytnych igrzysk olimpijskich.
+
+### Wykozystane metody
+
+W moim repozytorium wykorzystałem metode pozycjonowania FLEX, metodę BEM dla lepszej czytelności kodu.
+
