@@ -14,4 +14,4 @@ Boks jest znany ludzkości od starożytnej grecji, gdzie znajdował się w progr
 ### Wykorzystane metody
 
 W moim repozytorium wykorzystałem metode pozycjonowania FLEX, metodę BEM dla lepszej czytelności kodu.
-
+Wykonałem również prostą funkcję w #Java Script która w moim repozytorium po kliknięciu w przycisk usuwa zdjęcie.
