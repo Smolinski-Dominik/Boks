@@ -4,7 +4,7 @@
 
 **https://smolinski-dominik.github.io/my-profile/**
 
-![Bokserzy](https://https://ocdn.eu/pulscms-transforms/1/sELk9kpTURBXy8xZjgwNGVmZmIyZDZhZmY3MjYzN2JjY2U3N2VjZTNhNy5qcGeUlQMAU80KWs0F0pMFzQMUzQG8lQfZMi9wdWxzY21zL01EQV8vMjMzN2M5ZmQ2YjkzMWVlNmNiMGQyM2RjYmEyNThhOWQucG5nAMIAkwmmMzkwNzA2BoGhMAE/artur-szpilka.jpg)
+![Bokserzy](https://ocdn.eu/pulscms-transforms/1/izHk9kpTURBXy8xZjgwNGVmZmIyZDZhZmY3MjYzN2JjY2U3N2VjZTNhNy5qcGeSlQLNA8AAwsOVAgDNA8DCw4GhMAU)
 
 ## Opis
 
