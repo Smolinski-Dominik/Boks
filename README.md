@@ -1,6 +1,6 @@
 # Boks - Smoliński Dominik
 
-## Demo
+## Boks najlepszy sport walki!
 
 https://smolinski-dominik.github.io/my-profile/
 
