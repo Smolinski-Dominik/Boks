@@ -9,7 +9,9 @@ https://smolinski-dominik.github.io/my-profile/
 ## Opis
 
 Strona poświęcona najlepszemu sportowi walki. Trenując ciało i umysł można zostać mistrzem.
-**Boks** jest znany ludzkości od starożytnej grecji, gdzie znajdował się w programie starożytnych igrzysk olimpijskich.
+**Boks** jest znany ludzkości od starożytnej grecji, gdzie znajdował się już w programie starożytnych igrzysk olimpijskich.
+Strona opisuje zasady sportu, techniki które można wykorzystywać w walce. Techniki obronne.
+
 
 ### Wykorzystane metody
 
