@@ -4,7 +4,7 @@
 
 **https://smolinski-dominik.github.io/my-profile/**
 
-![Bokserzy](https://github.com/i-am-Frontend/my-profile/blob/master/image/Olanda_Anderson_(Red)_tries_to_land_a_punch_against_Rudolf_Kraj,_2000.jpg?raw=true)
+![Bokserzy](https://https://ocdn.eu/pulscms-transforms/1/sELk9kpTURBXy8xZjgwNGVmZmIyZDZhZmY3MjYzN2JjY2U3N2VjZTNhNy5qcGeUlQMAU80KWs0F0pMFzQMUzQG8lQfZMi9wdWxzY21zL01EQV8vMjMzN2M5ZmQ2YjkzMWVlNmNiMGQyM2RjYmEyNThhOWQucG5nAMIAkwmmMzkwNzA2BoGhMAE/artur-szpilka.jpg)
 
 ## Opis
 
