@@ -2,7 +2,7 @@
 
 ## Boks najlepszy sport walki!
 
-**https://smolinski-dominik.github.io/my-profile/**
+**https://smolinski-dominik.github.io/Boks/**
 
 ![Bokserzy](https://ocdn.eu/pulscms-transforms/1/izHk9kpTURBXy8xZjgwNGVmZmIyZDZhZmY3MjYzN2JjY2U3N2VjZTNhNy5qcGeSlQLNA8AAwsOVAgDNA8DCw4GhMAU)
 
